@@ -8,14 +8,21 @@
 
 - 注册 [lucidchart](https://www.lucidchart.com) 账号；
 - 熟悉 lucidchart 的基本功能；
-- fork 此仓库；
+- 下载此仓库代码；
 - IDE 安装 `Volar` 插件；
 - 安装依赖`npm install`；
 - 启动项目`npm run dev`；
 - 访问 `http://localhost:5200`，查看项目；
 - 完成功能；
 - 记录如何完成项目的思路：比如需求拆分，代码设计，实现思路等，并随代码一起提交；
-- 将代码推送到自己 fork 的仓库（不要提交 pr），最后将仓库地址发送给面试官；
+
+## 提交代码
+
+- 请将代码推送到自己的 github 仓库，（注意：不要 fork 本仓库，不要提交 pr， 不要在本仓库提交代码）；
+- 请将自己的 github 仓库设置为 private；
+- 请将 `luanzhuxian@gmail.com` 添加为仓库成员便于查看；
+- 最后将仓库地址发送给招聘人员；
+- 如有不理解的问题，请联系招聘人员；
 
 ## 需要完成的功能
 
