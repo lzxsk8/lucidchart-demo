@@ -9,6 +9,7 @@
 - 注册 [lucidchart](https://www.lucidchart.com) 账号；
 - 熟悉 lucidchart 的基本功能；
 - fork 此仓库；
+- IDE 安装 `Volar` 插件；
 - 安装依赖`npm install`；
 - 启动项目`npm run dev`；
 - 访问 `http://localhost:5200`，查看项目；
